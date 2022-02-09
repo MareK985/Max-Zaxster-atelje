@@ -19,12 +19,12 @@
       <br>
       <div id="shop">
         <h1 class="main-title" data-aos="zoom-in">
-          NFT/FT catalogue
+          Paintings collection season 1
         </h1>
-        <h2 class="gold">
+        <!-- <h2 class="gold">
           Logo
         </h2>
-        <ShopNftToken />
+        <ShopNftToken /> -->
         <br>
         <h2 class="gold">
           Max Zaxster / Outremer
@@ -42,13 +42,6 @@
           Serigraphy Hedonia is made of 13 different fts and one nft, they are all made of original Max Zaxter paintings. First to collect 13 minted tokens gets free NFT of this serigraphy.
         </p>
         <ShopZaxsterHedonija />
-        <br>
-        <a href="https://www.instagram.com/nocerafrancesca116/">
-          <h2 class="gold">
-            Francesca #116
-          </h2>
-        </a>
-        <ShopFrancesca />
         <br>
         <h2 class="gold">
           Mario Rosetti / Rosetti"s Fiery mud puzzles
@@ -74,10 +67,28 @@
         </div>
         <ShopRosettiTimeTraveler />
         <br>
-        <!-- <h2 class="gold">
+        <h1 class="main-title" data-aos="zoom-in">
+          Paintings collection season 2
+        </h1>
+        <h2 class="gold">
+          Max Zaxster
+        </h2>
+        <ShopZaxster2 />
+        <!-- <p class="title">
+          Serigraphy Hedonia is made of 13 different fts and one nft, they are all made of original Max Zaxter paintings. First to collect 13 minted tokens gets free NFT of this serigraphy.
+        </p> -->
+        <br>
+        <a href="https://www.instagram.com/nocerafrancesca116/">
+          <h2 class="gold">
+            Francesca #116
+          </h2>
+        </a>
+        <ShopFrancesca />
+        <br>
+        <h2 class="gold">
           Ula G. Lipowitz
         </h2>
-        <ShopUla /> -->
+        <ShopUla />
       </div>
       <br>
     </section>
@@ -89,13 +100,14 @@
 import HeroNft from '~/components/HeroNft.vue'
 import AboutNft from '~/components/AboutNft.vue'
 import ShopZaxster from '~/components/ShopZaxster.vue'
+import ShopZaxster2 from '~/components/ShopZaxster2.vue'
 import ShopZaxsterHedonija from '~/components/ShopZaxsterHedonija.vue'
 import ShopRosetti from '~/components/ShopRosetti.vue'
 import ShopFrancesca from '~/components/ShopFrancesca.vue'
-import ShopNftToken from '~/components/ShopNftToken.vue'
+// import ShopNftToken from '~/components/ShopNftToken.vue'
 import ShopRosettiTimeTraveler from '~/components/ShopRosettiTimeTraveler.vue'
 import Partners from '~/components/Partners.vue'
-// import ShopUla from '~/components/ShopUla.vue'
+import ShopUla from '~/components/ShopUla.vue'
 import FooterNft from '~/components/FooterNft.vue'
 
 export default {
@@ -104,13 +116,14 @@ export default {
 		FooterNft,
 		AboutNft,
 		ShopZaxster,
+		ShopZaxster2,
 		ShopZaxsterHedonija,
-		ShopNftToken,
+		// ShopNftToken,
 		ShopRosetti,
 		ShopRosettiTimeTraveler,
 		ShopFrancesca,
-		Partners
-		// ShopUla
+		Partners,
+		ShopUla
 	}
 }
 </script>

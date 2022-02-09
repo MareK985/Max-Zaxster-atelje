@@ -12,11 +12,11 @@
             sold out
           </button>
         </div>
-        <div>
+        <!-- <div>
           <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
             galaxy of art
           </button>
-        </div>
+        </div> -->
       </div>
     </div>
 
@@ -35,6 +35,11 @@
         <div>
           <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
             galaxy of art
+          </button>
+        </div>
+        <div>
+          <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+            jpeg.store
           </button>
         </div>
       </div>
@@ -57,6 +62,11 @@
             galaxy of art
           </button>
         </div>
+        <div>
+          <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+            jpeg.store
+          </button>
+        </div>
       </div>
     </div>
 
@@ -75,6 +85,11 @@
         <div>
           <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
             galaxy of art
+          </button>
+        </div>
+        <div>
+          <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+            jpeg.store
           </button>
         </div>
       </div>
@@ -97,6 +112,11 @@
             galaxy of art
           </button>
         </div>
+        <div>
+          <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+            jpeg.store
+          </button>
+        </div>
       </div>
     </div>
 
@@ -115,6 +135,11 @@
         <div>
           <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
             galaxy of art
+          </button>
+        </div>
+        <div>
+          <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+            jpeg.store
           </button>
         </div>
       </div>

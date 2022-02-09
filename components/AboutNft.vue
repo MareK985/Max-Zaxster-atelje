@@ -16,6 +16,9 @@
           <span>
             <a target="_blank" href="https://www.galaxyof.art/" class="info-btn">galaxy of art</a>
           </span>
+          <span>
+            <a target="_blank" href="https://www.jpg.store/" class="info-btn">jpeg.store</a>
+          </span>
         </div>
         <!-- <p class="read-more">
             <a v-on:click="$refs.about.open()">{{ $t('readMore') }}</a>

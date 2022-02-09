@@ -1,41 +1,186 @@
 <template>
-  <div class="container">
-    <div class="product-card">
-      <div class="product-img img-one" />
-      <div class="product-text">
-        <h3>London</h3>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Incidunt excepturi totam ducimus, nemo tenetur, quibusdam accusamus neque deserunt aliquid perferendis.</p>
+  <div>
+    <div class="container">
+      <div class="product-card">
+        <div class="product-img img-one" />
+        <div class="product-text">
+          <h3>Effusion</h3>
+          <p>5 NFTs minted</p>
+        </div>
+        <div class="product-cart">
+          <div>
+            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+              tokhun
+            </button>
+          </div>
+          <div>
+            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+              jpeg.store
+            </button>
+          </div>
+        </div>
       </div>
-      <div class="product-cart">
-        <button type="submit">
-          Add to cart
-        </button>
+
+      <div class="product-card">
+        <div class="product-img img-two" />
+        <div class="product-text">
+          <h3>Pandemic</h3>
+          <p>5 NFTs minted</p>
+        </div>
+        <div class="product-cart">
+          <div>
+            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+              tokhun
+            </button>
+          </div>
+          <div>
+            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+              jpeg.store
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <div class="product-img img-three" />
+        <div class="product-text">
+          <h3>Death river</h3>
+          <p>50 NFTs minted</p>
+        </div>
+        <div class="product-cart">
+          <div>
+            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+              tokhun
+            </button>
+          </div>
+          <div>
+            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+              jpeg.store
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <div class="product-img img-four" />
+        <div class="product-text">
+          <h3>Winter wind</h3>
+          <p>5 NFTs minted</p>
+        </div>
+        <div class="product-cart">
+          <div>
+            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+              tokhun
+            </button>
+          </div>
+          <div>
+            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+              jpeg.store
+            </button>
+          </div>
+        </div>
       </div>
     </div>
+    <br>
+    <div class="container">
+      <div class="product-card">
+        <div class="product-img img-five" />
+        <div class="product-text">
+          <h3>Rage</h3>
+          <p>1 NFT minted</p>
+        </div>
+        <div class="product-cart">
+          <div>
+            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+              tokhun
+            </button>
+          </div>
+          <div>
+            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+              jpeg.store
+            </button>
+          </div>
+        </div>
+      </div>
 
-    <div class="product-card">
-      <div class="product-img img-two" />
-      <div class="product-text">
-        <h3>Amsterdam</h3>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Pariatur, deserunt maxime? Earum eveniet suscipit ad! Quidem recusandae minima est minus nobis accusamus.</p>
+      <div class="product-card">
+        <div class="product-img img-six" />
+        <div class="product-text">
+          <h3>Atlantis</h3>
+          <p>1 NFT minted</p>
+        </div>
+        <div class="product-cart">
+          <div>
+            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+              tokhun
+            </button>
+          </div>
+          <div>
+            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+              jpeg.store
+            </button>
+          </div>
+        </div>
       </div>
-      <div class="product-cart">
-        <button type="submit">
-          Add to cart
-        </button>
-      </div>
-    </div>
 
-    <div class="product-card">
-      <div class="product-img img-three" />
-      <div class="product-text">
-        <h3>Madrid</h3>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis, laborum. Non maxime corrupti illo necessitatibus error vitae numquam perspiciatis culpa.</p>
+      <div class="product-card">
+        <div class="product-img img-seven" />
+        <div class="product-text">
+          <h3>Polaris</h3>
+          <p>1 NFT minted</p>
+        </div>
+        <div class="product-cart">
+          <div>
+            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+              tokhun
+            </button>
+          </div>
+          <div>
+            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+              jpeg.store
+            </button>
+          </div>
+        </div>
       </div>
-      <div class="product-cart">
-        <button type="submit">
-          Add to cart
-        </button>
+
+      <div class="product-card">
+        <div class="product-img img-eight" />
+        <div class="product-text">
+          <h3>Tidal Wave</h3>
+          <p>1 NFT minted</p>
+        </div>
+        <div class="product-cart">
+          <div>
+            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+              tokhun
+            </button>
+          </div>
+          <div>
+            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+              jpeg.store
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <div class="product-img img-nine" />
+        <div class="product-text">
+          <h3>Farewell</h3>
+          <p>1 NFT minted</p>
+        </div>
+        <div class="product-cart">
+          <div>
+            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+              tokhun
+            </button>
+          </div>
+          <div>
+            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+              jpeg.store
+            </button>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -83,6 +228,7 @@ p {
 
 .container {
   display: flex;
+  max-width: fit-content;
 }
 
 /* PRODUCT CARD */
@@ -91,7 +237,7 @@ p {
   background-color: #f5f6fa;
   border-radius: 10px;
   color: #2f3640;
-  margin: 0 2em;
+  margin: 0 1em;
   transition: all linear .2s;
   width: 300px;
   display: flex;
@@ -112,20 +258,51 @@ p {
 }
 
 .img-one {
-  background-image: url(https://images.unsplash.com/photo-1517394834181-95ed159986c7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1506&q=80);
+  background-image: url(~assets/img/rosetti/Exhaust_puzzle.jpg);
 }
 
 .img-two {
-  background-image: url(https://images.unsplash.com/photo-1523889310790-cb91a98b017b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80);
+  background-image: url(~assets/img/ula/pandemija.jpg);
 }
 
 .img-three {
-  background-image: url(https://images.unsplash.com/photo-1566940973973-d499f3993bf4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80);
+  background-image: url(~assets/img/ula/ula_artwork2.jpg);
+}
+
+.img-four {
+  background-image: url(~assets/img/ula/ula_artwork2.jpg);
+}
+
+.img-five {
+  background-image: url(~assets/img/rosetti/Tire_puzzle.jpg);
+}
+
+.img-six {
+  background-image: url(~assets/img/ula/atlantis.jpg);
+}
+
+.img-seven {
+  background-image: url(~assets/img/ula/polaris.jpg);
+}
+
+.img-eight {
+  background-image: url(~assets/img/ula/tidalWave.jpg);
+}
+
+.img-nine {
+  background-image: url(~assets/img/ula/farewell.jpg);
 }
 
 .img-one,
 .img-two,
-.img-three {
+.img-three,
+.img-four,
+.img-five,
+.img-six,
+.img-seven,
+.img-eight,
+.img-nine
+{
   background-size: cover;
   background-position: center;
 }
@@ -154,19 +331,42 @@ p {
 
 /* color */
 .product-card:first-child h3 {
-  color: #e84118;
+  color: #104ba3;
 }
 
 .product-card:first-child button {
-  background-color: #e84118;
+  background-color: #104ba3;
 }
 
 .product-card:nth-child(2) h3 {
-  color: #fbc531;
+  color: #1c73bb;
 }
 
 .product-card:nth-child(2) button {
-  background-color: #fbc531;
+  background-color: #1c73bb;
+}
+
+.product-card:nth-child(3) h3 {
+  color: #0097e6;
+}
+
+.product-card:nth-child(3) button {
+  background-color: #0097e6;
+}
+.product-card:nth-child(4) h3 {
+  color: #104ba3;
+}
+
+.product-card:nth-child(4) button {
+  background-color: #104ba3;
+}
+
+.product-card:nth-child(5) h3 {
+  color: #1c73bb;
+}
+
+.product-card:nth-child(5) button {
+  background-color: #1c73bb;
 }
 
 .product-card:last-child h3 {

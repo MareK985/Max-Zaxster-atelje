@@ -2,10 +2,10 @@
   <div>
     <div class="container">
       <div class="product-card">
-        <div class="product-img img1 cover" />
+        <div class="product-img img-two" />
         <div class="product-text">
-          <h3>Score for pleasure</h3>
-          <p>14 FTs minted</p>
+          <h3>Peaceful sailing</h3>
+          <p>5 NFTs minted</p>
         </div>
         <div class="product-cart">
           <div>
@@ -27,10 +27,10 @@
       </div>
 
       <div class="product-card">
-        <div class="product-img img2 cover" />
+        <div class="product-img img-three" />
         <div class="product-text">
-          <h3>Intermezzo</h3>
-          <p>13 FTs minted</p>
+          <h3>Collapsing world</h3>
+          <p>3 NFTs minted</p>
         </div>
         <div class="product-cart">
           <div>
@@ -52,10 +52,10 @@
       </div>
 
       <div class="product-card">
-        <div class="product-img img3 cover" />
+        <div class="product-img img-four" />
         <div class="product-text">
-          <h3>Hidden corner</h3>
-          <p>12 FTs minted</p>
+          <h3>Golden Michelin</h3>
+          <p>3 FTs minted</p>
         </div>
         <div class="product-cart">
           <div>
@@ -77,161 +77,9 @@
       </div>
 
       <div class="product-card">
-        <div class="product-img img4 cover" />
+        <div class="product-img img-five" />
         <div class="product-text">
-          <h3>Soirea</h3>
-          <p>11 FTs minted</p>
-        </div>
-        <div class="product-cart">
-          <div>
-            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
-              tokhun
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
-              galaxy of art
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
-              jpeg.store
-            </button>
-          </div>
-        </div>
-      </div>
-
-      <div class="product-card">
-        <div class="product-img img5 cover" />
-        <div class="product-text">
-          <h3>Vagabund diary</h3>
-          <p>10 FTs minted</p>
-        </div>
-        <div class="product-cart">
-          <div>
-            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
-              tokhun
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
-              galaxy of art
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
-              jpeg.store
-            </button>
-          </div>
-        </div>
-      </div>
-
-      <div class="product-card">
-        <div class="product-img img6 cover" />
-        <div class="product-text">
-          <h3>First violin</h3>
-          <p>9 FTs minted</p>
-        </div>
-        <div class="product-cart">
-          <div>
-            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
-              tokhun
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
-              galaxy of art
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
-              jpeg.store
-            </button>
-          </div>
-        </div>
-      </div>
-    </div>
-    <br>
-    <div class="container">
-      <div class="product-card">
-        <div class="product-img img7 cover" />
-        <div class="product-text">
-          <h3>Eve temptation</h3>
-          <p>8 FTs minted</p>
-        </div>
-        <div class="product-cart">
-          <div>
-            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
-              tokhun
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
-              galaxy of art
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
-              jpeg.store
-            </button>
-          </div>
-        </div>
-      </div>
-
-      <div class="product-card">
-        <div class="product-img img8 cover" />
-        <div class="product-text">
-          <h3>Double C</h3>
-          <p>7 FTs minted</p>
-        </div>
-        <div class="product-cart">
-          <div>
-            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
-              tokhun
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
-              galaxy of art
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
-              jpeg.store
-            </button>
-          </div>
-        </div>
-      </div>
-
-      <div class="product-card">
-        <div class="product-img img9 cover" />
-        <div class="product-text">
-          <h3>Juicy composition</h3>
-          <p>6 FTs minted</p>
-        </div>
-        <div class="product-cart">
-          <div>
-            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
-              tokhun
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
-              galaxy of art
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
-              jpeg.store
-            </button>
-          </div>
-        </div>
-      </div>
-
-      <div class="product-card">
-        <div class="product-img img10 cover" />
-        <div class="product-text">
-          <h3>Golden dreams </h3>
+          <h3>Dragon Aura</h3>
           <p>5 FTs minted</p>
         </div>
         <div class="product-cart">
@@ -254,35 +102,10 @@
       </div>
 
       <div class="product-card">
-        <div class="product-img img11 cover" />
+        <div class="product-img img-six" />
         <div class="product-text">
-          <h3>First league</h3>
-          <p>4 FTs minted</p>
-        </div>
-        <div class="product-cart">
-          <div>
-            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
-              tokhun
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
-              galaxy of art
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
-              jpeg.store
-            </button>
-          </div>
-        </div>
-      </div>
-
-      <div class="product-card">
-        <div class="product-img img12 cover" />
-        <div class="product-text">
-          <h3>Dolce vita</h3>
-          <p>3 FTs minted</p>
+          <h3>Metropolitano</h3>
+          <p>5 NFTs minted</p>
         </div>
         <div class="product-cart">
           <div>
@@ -306,41 +129,102 @@
     <br>
     <div class="container">
       <div class="product-card">
-        <div class="product-img img13 cover" />
+        <div class="product-img img-seven" />
         <div class="product-text">
-          <h3>In wine veritas</h3>
-          <p>2 FTs minted</p>
+          <h3>Greengosi</h3>
+          <p>5 NFTs minted</p>
         </div>
         <div class="product-cart">
           <div>
-            <button disabled class="disabled" style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
-              sold out
+            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+              tokhun
             </button>
           </div>
-          <!-- <div>
+          <div>
             <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
               galaxy of art
             </button>
-          </div> -->
+          </div>
+          <div>
+            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+              jpeg.store
+            </button>
+          </div>
         </div>
       </div>
+
       <div class="product-card">
-        <div class="product-img img14 cover" />
+        <div class="product-img img-eight" />
         <div class="product-text">
-          <h3>Wine mother</h3>
-          <p>Only one NFTs minted</p>
+          <h3>Scared</h3>
+          <p>5 NFTs minted</p>
         </div>
         <div class="product-cart">
           <div>
-            <button disabled class="disabled" style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
-              sold out
+            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+              tokhun
             </button>
           </div>
-          <!-- <div>
+          <div>
             <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
               galaxy of art
             </button>
-          </div> -->
+          </div>
+          <div>
+            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+              jpeg.store
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <div class="product-img img-nine" />
+        <div class="product-text">
+          <h3>Golden Bride</h3>
+          <p>5 NFTs minted</p>
+        </div>
+        <div class="product-cart">
+          <div>
+            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+              tokhun
+            </button>
+          </div>
+          <div>
+            <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
+              galaxy of art
+            </button>
+          </div>
+          <div>
+            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+              jpeg.store
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <div class="product-card">
+        <div class="product-img img-ten" />
+        <div class="product-text">
+          <h3>Warning Chateau Margaux 200</h3>
+          <p>Only one NFT minted</p>
+        </div>
+        <div class="product-cart">
+          <div>
+            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+              tokhun
+            </button>
+          </div>
+          <div>
+            <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
+              galaxy of art
+            </button>
+          </div>
+          <div>
+            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+              jpeg.store
+            </button>
+          </div>
         </div>
       </div>
     </div>
@@ -348,7 +232,9 @@
 </template>
 
 <script>
+export default {
 
+}
 </script>
 
 <style lang="scss" scoped>
@@ -416,50 +302,53 @@ p {
   max-width: 100%;
 }
 
-.img1 {
-  background-image: url(~assets/img/hedonizem/Scoreforpleasure_pixel.jpg);
-}
-.img2 {
-  background-image: url(~assets/img/hedonizem/Intermezzo_pixel.jpg);
-}
-.img3 {
-  background-image: url(~assets/img/hedonizem/HiddenCorner_pixel.jpg);
-}
-.img4 {
-  background-image: url(~assets/img/hedonizem/Soirea_pixel.jpg);
-}
-.img5 {
-  background-image: url(~assets/img/hedonizem/VagabundDiary_pixel.jpg);
-}
-.img6 {
-  background-image: url(~assets/img/hedonizem/FirstViolin_pixel.jpg);
-}
-.img7 {
-  background-image: url(~assets/img/hedonizem/EveTemptation_pixel.jpg);
-}
-.img8 {
-  background-image: url(~assets/img/hedonizem/DoubleC_pixel.jpg);
-}
-.img9 {
-  background-image: url(~assets/img/hedonizem/JuicyCompositon_pixel.jpg);
-}
-.img10 {
-  background-image: url(~assets/img/hedonizem/GoldenDreams_pixel.jpg);
-}
-.img11 {
-  background-image: url(~assets/img/hedonizem/FirstLeague_pixel.jpg);
-}
-.img12 {
-  background-image: url(~assets/img/hedonizem/DolceVita_pixel.jpg);
-}
-.img13 {
-  background-image: url(~assets/img/hedonizem/InVineVeritas_pixel.jpg);
-}
-.img14 {
-  background-image: url(~assets/img/hedonizem/WineMother_pixel.jpg);
+.img-two {
+  background-image: url(~assets/img/maxZaxter/PeacefulSailing.jpg);
 }
 
-.cover {
+.img-three {
+  background-image: url(~assets/img/maxZaxter/collapsingWorld.jpg);
+}
+
+.img-four {
+  background-image: url(~assets/img/maxZaxter/goldenMichelin.jpg);
+}
+
+.img-five {
+  background-image: url(~assets/img/maxZaxter/dragonAura.jpg);
+}
+
+.img-six {
+  background-image: url(~assets/img/maxZaxter/metropolitano.jpg);
+}
+
+.img-seven {
+  background-image: url(~assets/img/maxZaxter/greengosi.jpg);
+}
+
+.img-eight {
+  background-image: url(~assets/img/maxZaxter/scared.jpg);
+}
+
+.img-nine {
+  background-image: url(~assets/img/maxZaxter/goldenBride.jpg);
+}
+
+.img-ten {
+  background-image: url(~assets/img/maxZaxter/warning.jpg);
+}
+
+.img-one,
+.img-two,
+.img-three,
+.img-four,
+.img-five,
+.img-six,
+.img-seven,
+.img-eight,
+.img-nine,
+.img-ten
+{
   background-size: cover;
   background-position: center;
 }
@@ -467,11 +356,6 @@ p {
 .product-text {
   padding: 1em;
   text-align: center;
-}
-
-.product-cart .disabled {
-background-color: #757677 !important;
-cursor: inherit;
 }
 
 .product-cart button{
@@ -485,6 +369,19 @@ cursor: inherit;
   transition: all linear .3s;
   width: 100%;
 }
+
+.product-cart .disabled {
+background-color: #757677 !important;
+cursor: inherit;
+}
+
+// .product-cart {
+//     display: flex;
+//     flex-wrap: wrap;
+//     align-content: space-around;
+//     justify-content: space-around;
+//     align-items: center;
+// }
 
 .product-cart button:hover {
   font-weight: 500;

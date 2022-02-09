@@ -39,9 +39,15 @@
           <p>
             We take great pride to mint NFTs and FTs on Cardano blockchain. Here are all details you need to ensure our NFTs and FTs PS Max Zaxster. Check our policy ID to ensure NFTs and FTs which you are buying are minted by PS Max Zaxster. A Policy ID is used to verify the authenticity of all tokens. Always use your due diligence and cross-check Policy ID's before purchasing <strong>ANY</strong> artist's artwork to avoid becoming a victim of scams and counterfeit art.  Always verify the Policy ID'S for the artwork you intend to purchase.
           </p>
+          <h3>paintings season 1 </h3>
           <p style="text-align: left;">
             Policy id: <span class="policyId">9a91b4a1b14840291bb00e99f395475ec9877c2d7874c3d3bc4a248b</span>
-          <!-- <a v-on:click="$refs.about.open()">{{ $t('readMore') }}</a> -->
+            <!-- <a v-on:click="$refs.about.open()">{{ $t('readMore') }}</a> -->
+          </p>
+          <h3>paintings season 2 </h3>
+          <p style="text-align: left;">
+            Policy id: <span class="policyId">585f042622bebacfe75f6b0d64d4ca2020c1d3ae2645b2d28a8ba7c8</span>
+            <!-- <a v-on:click="$refs.about.open()">{{ $t('readMore') }}</a> -->
           </p>
           <p>
             This policy is closed and no other nft or ft will be added.
@@ -50,6 +56,8 @@
             All already minted NFTs and FTs will not be minted again.
           </p>
           <a href="#shop" class="info-btn">NFT catalogue</a>
+          </h3>
+          </h3>
         </div>
       </div>
       <div class="media-icons">

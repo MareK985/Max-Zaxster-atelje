@@ -7,9 +7,21 @@
         <p>120 NFTs minted</p>
       </div>
       <div class="product-cart">
-        <button onClick="window.location.href='https://tokhun.io/maxzaxster';" type="submit">
-          Soon on marketplace
-        </button>
+        <div>
+          <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+            tokhun
+          </button>
+        </div>
+        <div>
+          <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
+            galaxy of art
+          </button>
+        </div>
+        <div>
+          <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+            jpeg.store
+          </button>
+        </div>
       </div>
     </div>
 
@@ -20,9 +32,21 @@
         <p>100 NFTs minted</p>
       </div>
       <div class="product-cart">
-        <button onClick="window.location.href='https://tokhun.io/maxzaxster';" type="submit">
-          Soon on marketplace
-        </button>
+        <div>
+          <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+            tokhun
+          </button>
+        </div>
+        <div>
+          <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
+            galaxy of art
+          </button>
+        </div>
+        <div>
+          <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+            jpeg.store
+          </button>
+        </div>
       </div>
     </div>
 
@@ -33,9 +57,21 @@
         <p>80 NFTs minted</p>
       </div>
       <div class="product-cart">
-        <button onClick="window.location.href='https://tokhun.io/maxzaxster';" type="submit">
-          Soon on marketplace
-        </button>
+        <div>
+          <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+            tokhun
+          </button>
+        </div>
+        <div>
+          <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
+            galaxy of art
+          </button>
+        </div>
+        <div>
+          <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+            jpeg.store
+          </button>
+        </div>
       </div>
     </div>
 
@@ -46,9 +82,21 @@
         <p>60 NFTs minted</p>
       </div>
       <div class="product-cart">
-        <button onClick="window.location.href='https://tokhun.io/maxzaxster';" type="submit">
-          Soon on marketplace
-        </button>
+        <div>
+          <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+            tokhun
+          </button>
+        </div>
+        <div>
+          <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
+            galaxy of art
+          </button>
+        </div>
+        <div>
+          <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+            jpeg.store
+          </button>
+        </div>
       </div>
     </div>
 
@@ -59,9 +107,21 @@
         <p>40 NFTs minted</p>
       </div>
       <div class="product-cart">
-        <button onClick="window.location.href='https://tokhun.io/maxzaxster';" type="submit">
-          Soon on marketplace
-        </button>
+        <div>
+          <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+            tokhun
+          </button>
+        </div>
+        <div>
+          <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
+            galaxy of art
+          </button>
+        </div>
+        <div>
+          <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+            jpeg.store
+          </button>
+        </div>
       </div>
     </div>
 
@@ -72,9 +132,21 @@
         <p>20 NFTs minted</p>
       </div>
       <div class="product-cart">
-        <button onClick="window.location.href='https://tokhun.io/maxzaxster';" type="submit">
-          Soon on marketplace
-        </button>
+        <div>
+          <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
+            tokhun
+          </button>
+        </div>
+        <div>
+          <button style="background-color: #2B3990;" onClick="window.location.href='https://www.galaxyof.art';" type="submit">
+            galaxy of art
+          </button>
+        </div>
+        <div>
+          <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
+            jpeg.store
+          </button>
+        </div>
       </div>
     </div>
   </div>
