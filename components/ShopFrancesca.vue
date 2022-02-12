@@ -152,7 +152,7 @@ p {
 }
 
 .img-two {
-  background-image: url(~assets/img/francesca/FlyingFrancesca.jpg);
+  background-image: url(~assets/img/francesca/FrancescaNocera.jpg);
 }
 
 .img-three {

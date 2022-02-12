@@ -45,7 +45,7 @@
         <div class="product-img img-three" />
         <div class="product-text">
           <h3>Death river</h3>
-          <p>50 NFTs minted</p>
+          <p>5 NFTs minted</p>
         </div>
         <div class="product-cart">
           <div>
@@ -91,13 +91,8 @@
         </div>
         <div class="product-cart">
           <div>
-            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
-              tokhun
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
-              jpeg.store
+            <button style="background-color: #2B3990;" onClick="window.location.href='https://app.galaxyof.art/#/collections/view/PS-Max-Zaxster---Ula-G.-Lipowitz/12353';" type="submit">
+              galaxy of art
             </button>
           </div>
         </div>
@@ -111,13 +106,8 @@
         </div>
         <div class="product-cart">
           <div>
-            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
-              tokhun
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
-              jpeg.store
+            <button style="background-color: #2B3990;" onClick="window.location.href='https://app.galaxyof.art/#/collections/view/PS-Max-Zaxster---Ula-G.-Lipowitz/12353';" type="submit">
+              galaxy of art
             </button>
           </div>
         </div>
@@ -131,13 +121,8 @@
         </div>
         <div class="product-cart">
           <div>
-            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
-              tokhun
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
-              jpeg.store
+            <button style="background-color: #2B3990;" onClick="window.location.href='https://app.galaxyof.art/#/collections/view/PS-Max-Zaxster---Ula-G.-Lipowitz/12353';" type="submit">
+              galaxy of art
             </button>
           </div>
         </div>
@@ -151,13 +136,8 @@
         </div>
         <div class="product-cart">
           <div>
-            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
-              tokhun
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
-              jpeg.store
+            <button style="background-color: #2B3990;" onClick="window.location.href='https://app.galaxyof.art/#/collections/view/PS-Max-Zaxster---Ula-G.-Lipowitz/12353';" type="submit">
+              galaxy of art
             </button>
           </div>
         </div>
@@ -171,13 +151,8 @@
         </div>
         <div class="product-cart">
           <div>
-            <button style="background-color: #575382;" onClick="window.location.href='https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1';" type="submit">
-              tokhun
-            </button>
-          </div>
-          <div>
-            <button style="background-color: #ECB1E7;" onClick="window.location.href='https://www.jpg.store/collection/psmaxzaster1';" type="submit">
-              jpeg.store
+            <button style="background-color: #2B3990;" onClick="window.location.href='https://app.galaxyof.art/#/collections/view/PS-Max-Zaxster---Ula-G.-Lipowitz/12353';" type="submit">
+              galaxy of art
             </button>
           </div>
         </div>
