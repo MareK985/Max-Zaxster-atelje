@@ -233,7 +233,7 @@ p {
 }
 
 .img-one {
-  background-image: url(~assets/img/rosetti/Exhaust_puzzle.jpg);
+  background-image: url(~assets/img/ula/izliv.jpg);
 }
 
 .img-two {
@@ -241,7 +241,7 @@ p {
 }
 
 .img-three {
-  background-image: url(~assets/img/ula/ula_artwork2.jpg);
+  background-image: url(~assets/img/ula/winter_wind-ula.jpg);
 }
 
 .img-four {
@@ -249,7 +249,7 @@ p {
 }
 
 .img-five {
-  background-image: url(~assets/img/rosetti/Tire_puzzle.jpg);
+  background-image: url(~assets/img/ula/rage.jpg);
 }
 
 .img-six {

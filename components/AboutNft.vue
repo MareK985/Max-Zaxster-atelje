@@ -9,14 +9,14 @@
           We are Max Zaxster painting studio from Slovenia. We are doing NFTs and FTs on Cardano blockchain. They all are made from original paintings of our painters: Max Zaxster, Mario Rosetti and Ula G. Lipowitz. If you would like to collect our NFTs or FTs please check our account on Galaxyof.art and Tokhun.io.
           For all information how to get free nfts or fts from us please take a look on our token catalogue.
         </p>
-        <div style="height: 30px;">
+        <div class="aboutIcons">
           <span>
             <a target="_blank" href="https://tokhun.io/marketplace?project%5B%5D=732&minPrice=&maxPrice=&sortBy=Newest+First&page=1" class="info-btn">tokhun</a>
           </span>
-          <span>
+          <span class="iconBottomMobile">
             <a target="_blank" href="https://www.galaxyof.art/" class="info-btn">galaxy of art</a>
           </span>
-          <span>
+          <span class="iconBottomMobile">
             <a target="_blank" href="https://www.jpg.store/" class="info-btn">jpeg.store</a>
           </span>
         </div>
@@ -92,6 +92,10 @@ export default {
   background-image: linear-gradient(to bottom, transparent,  rgb(29, 28, 28));
 }
 
+.aboutIcons {
+margin-left: 50px;
+}
+
 .info-btn {
   color:rgb(155, 144, 144) !important;
   border: 1px solid rgb(155, 144, 144);
@@ -156,6 +160,11 @@ export default {
   letter-spacing: 1px;
   line-height: 1.4em;
 }
+.aboutIcons {
+padding: 20px;
+margin:0;
+height: 200px;
+}
 }
 @media only screen and (max-width: 980px) {
     .about-img {
@@ -206,8 +215,14 @@ export default {
     font-size: 2vh;
     text-align: justify;
     line-height: 1.35em;
-
   }
+.iconBottomMobile {
+	display: flex;
+	margin-top:15px;
+}
+.about-container {
+	padding: 0;
+}
 }
 
 </style>

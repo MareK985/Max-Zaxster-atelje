@@ -44,13 +44,16 @@
             Policy id: <span class="policyId">9a91b4a1b14840291bb00e99f395475ec9877c2d7874c3d3bc4a248b</span>
             <!-- <a v-on:click="$refs.about.open()">{{ $t('readMore') }}</a> -->
           </p>
+          <p style="color: red;">
+            This policy is closed and no other nft or ft will be added.
+          </p>
           <h3>paintings season 2 </h3>
           <p style="text-align: left;">
             Policy id: <span class="policyId">585f042622bebacfe75f6b0d64d4ca2020c1d3ae2645b2d28a8ba7c8</span>
             <!-- <a v-on:click="$refs.about.open()">{{ $t('readMore') }}</a> -->
           </p>
-          <p>
-            This policy is closed and no other nft or ft will be added.
+          <p style="color: red;">
+            Policy id will be locked in august 2022.
           </p>
           <p>
             All already minted NFTs and FTs will not be minted again.
